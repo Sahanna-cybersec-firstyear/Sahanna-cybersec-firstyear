@@ -1,4 +1,7 @@
-## Hi there 👋
+## R.Sahanna
+tryhackme profile - https://tryhackme.com/p/rsahanna3
+Task1 - Went through the theory, watched the video, attended the questions and created a word doc based on it
+Task2 - Explanation of core concepts of cyber security in a word doc along with diagrams
 
 <!--
 **Sahanna-cybersec-firstyear/Sahanna-cybersec-firstyear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
